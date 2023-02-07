@@ -11,4 +11,4 @@ Projeto final com curso de Apresentação de Dados com PowerBI do Curso Diversid
 ![Dashboard](https://github.com/celsobrf/Projeto-Power_BI/blob/main/Pagina03.png?raw=true)
 
 ## Painel Validação das Hipóteses
-![Dashboard](https://github.com/celsobrf/Projeto-Power_BI/blob/main/Tarefa04.png?raw=true)
+![Dashboard](https://github.com/celsobrf/Projeto-Power_BI/blob/main/Pagina04.png?raw=true)
